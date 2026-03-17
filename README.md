@@ -7,6 +7,56 @@ People want fresh dairy every day but often lack time to visit stores. This app 
 
 ---
 
+## 🖼️ Screenshots
+
+### 🔐 Authentication
+
+#### Login Screen
+<img width="300" src="\" />
+
+#### Register Screen
+<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/register.jpeg" />
+
+---
+
+### 🏠 Home & Products
+
+#### Home Screen
+<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/Home.jpeg" />
+
+#### Product Listing
+<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/Products.jpeg" />
+
+---
+
+### 🛒 Shopping Flow
+
+#### Cart
+<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/Cart.jpeg" />
+
+#### Checkout
+<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/Checkout.jpeg" />
+
+#### Payment
+<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/Payment.jpeg" />
+
+---
+
+### 📦 Orders & Tracking
+
+#### Orders
+<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/orders.jpeg" />
+
+#### Order Tracking
+<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/Order%20Tracking.jpeg" />
+
+---
+
+### 👤 User Profile
+
+#### Profile Screen
+<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/Profile.jpeg" />
+---
 ## Features
 - **Product catalog**: Images, details, pricing, and ratings
 - **Cart and checkout**: Persistent cart and order placement
