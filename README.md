@@ -7,55 +7,57 @@ People want fresh dairy every day but often lack time to visit stores. This app 
 
 ---
 
+---
+
 ## 🖼️ Screenshots
 
 ### 🔐 Authentication
 
 #### Login Screen
-<img width="300" src="\" />
+<img width="300" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/login.jpeg" />
 
 #### Register Screen
-<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/register.jpeg" />
+<img width="300" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/register.jpeg" />
 
 ---
 
 ### 🏠 Home & Products
 
 #### Home Screen
-<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/Home.jpeg" />
+<img width="300" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Home.jpeg" />
 
 #### Product Listing
-<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/Products.jpeg" />
+<img width="300" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Products.jpeg" />
 
 ---
 
 ### 🛒 Shopping Flow
 
 #### Cart
-<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/Cart.jpeg" />
+<img width="300" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Cart.jpeg" />
 
 #### Checkout
-<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/Checkout.jpeg" />
+<img width="300" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Checkout.jpeg" />
 
 #### Payment
-<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/Payment.jpeg" />
+<img width="300" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Payment.jpeg" />
 
 ---
 
 ### 📦 Orders & Tracking
 
 #### Orders
-<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/orders.jpeg" />
+<img width="300" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/orders.jpeg" />
 
 #### Order Tracking
-<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/Order%20Tracking.jpeg" />
+<img width="300" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Order%20Tracking.jpeg" />
 
 ---
 
 ### 👤 User Profile
 
 #### Profile Screen
-<img width="300" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/Profile.jpeg" />
+<img width="300" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Profile.jpeg" />
 ---
 ## Features
 - **Product catalog**: Images, details, pricing, and ratings
