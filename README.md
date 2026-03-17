@@ -17,28 +17,43 @@
 
 🖼️ Screenshots
 
+### 🔐 Authentication
 <p align="center">
-  <img width="230" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/login.jpeg" />
-  <img width="230" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/register.jpeg" />
-  <img width="230" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Home.jpeg" />
+  <img width="250" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/login.jpeg" />
+  <img width="250" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/register.jpeg" />
 </p>
 
+---
+
+### 🏠 Home & Products
 <p align="center">
-  <img width="230" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Products.jpeg" />
-  <img width="230" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Cart.jpeg" />
-  <img width="230" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Checkout.jpeg" />
+  <img width="250" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Home.jpeg" />
+  <img width="250" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Products.jpeg" />
 </p>
 
+---
+
+### 🛒 Shopping Flow
 <p align="center">
-  <img width="230" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Payment.jpeg" />
-  <img width="230" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/orders.jpeg" />
-  <img width="230" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Order%20Tracking.jpeg" />
+  <img width="250" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Cart.jpeg" />
+  <img width="250" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Checkout.jpeg" />
+  <img width="250" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Payment.jpeg" />
 </p>
 
+---
+
+### 📦 Orders & Tracking
 <p align="center">
-  <img width="230" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Profile.jpeg" />
+  <img width="250" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/orders.jpeg" />
+  <img width="250" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Order%20Tracking.jpeg" />
 </p>
 
+---
+
+### 👤 Profile
+<p align="center">
+  <img width="250" src="https://raw.githubusercontent.com/vasant3907/Neel-The-Dairy-Products/main/Profile.jpeg" />
+</p>
 ---
 
 🛠️ Tech Stack
